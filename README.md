@@ -1,4 +1,4 @@
-# Özellikkler
+# Özellikler
 -- Html , Css ve Scss teknolojilerinden faydalanılarak güzel bir arayüz oluşturuldu 
 
 -- Java Script ile dinamik bir yapı oluşturuldu
